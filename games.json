@@ -1,1 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Eggy Car",
+    "url": "https://storage.classroomsarecool.mex.com/eggy-car/index.html",
+    "image": "https://storage.classroomsarecool.mex.com/images/eggycar.png",
+    "category": "driving"
+  },
+  {
+    "id": "2",
+    "name": "Example Game",
+    "url": "https://example.com/game/index.html",
+    "image": "https://example.com/game/thumb.png",
+    "category": "arcade"
+  }
+]
 
